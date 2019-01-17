@@ -10,7 +10,7 @@ function setCart(c) {
 }
 
 function addToCart(itemName) {
-  
+  return Object.assign 
   
 }
 
